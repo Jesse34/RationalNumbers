@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/Jesse/Projects/RationalNumbers/Rational.cpp
+Rational.h
+/cygdrive/d/Jesse/Projects/RationalNumbers/Rational.h
+
+/cygdrive/d/Jesse/Projects/RationalNumbers/Rational.h
+array
+-
+iostream
+-
+string
+-
+sstream
+-
+regex
+-
+
